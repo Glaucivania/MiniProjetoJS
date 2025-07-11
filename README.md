@@ -11,3 +11,5 @@ Mini Projeto de ToDo List,desenvolvido durante o curso Geração Tech do Institu
 git clone https://github.com/Glaucivania/MiniProjetoJS.git
 
 2. Abra index.html no navegador.
+
+3. 
